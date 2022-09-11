@@ -34,10 +34,10 @@ export default function AboutMe() {
 
     return (
         <>
-        <div class="w-full mr-60 text-white ml-8">
+        <div class="w-full mr-8 lg:mr-30 xl:mr-60 text-white ml-8">
             <p class="bold text-2xl">Francisco Javier Pizarro Martínez</p>
             {list}
-            <div class="mt-8 bg-lightbg w-2/3 h-40 p-4">
+            <div class="mt-8 bg-lightbg w-full lg:w-2/3 h-40 p-4">
                 <p class="text-xl font-semibold capitalize pb-2">
                     Favorite technologies:
                 </p>

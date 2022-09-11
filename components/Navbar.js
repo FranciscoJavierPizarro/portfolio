@@ -61,7 +61,7 @@ export default function Navbar() {
             <div class="hidden w-full sm:ml-6 sm:block">
                 <div class="h-full flex">
                     <Resume/>
-                    <div class="w-full flex items-center justify-end">
+                    <div class="ml-8 w-full flex items-center justify-end">
                         {list}
                     </div>
                 </div>
