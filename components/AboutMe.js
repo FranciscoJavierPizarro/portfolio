@@ -12,10 +12,6 @@ export default function AboutMe() {
             text: ["Honors mention in bachiller.","Passed with honors operative systems subject in college","Participated in high capacieties program during 3º and 4º ESO"],
         },
         {
-            title: "Hobbies",
-            text: ["I like to spend my free time doing things like training, learning about new technologies which i didnt now yet, going outside with my friend.Also i enjoy reading a good book or playing some videogames."],
-        },
-        {
             title: "Soft skills",
             text: ["Ability to solve problems in unique and optimal ways.",
             "Leadership ability and good communication skills in terms of working in teams.",

@@ -9,8 +9,8 @@ export default function Home() {
     <div className="h-full bg-bg">
       <Navbar/>
       <div class=" flex w-full h-full mt-8">
-        <Sidebar/>
         <div class="w-1/5 hidden sm:block"/>
+        <Sidebar/>
         <Imagen/>
         <AboutMe/>
       </div>
