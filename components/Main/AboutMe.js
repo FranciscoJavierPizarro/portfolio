@@ -4,12 +4,12 @@ export default function AboutMe() {
     const info = [
         {
           title: "Current status",
-          text: ["Currently i am studing the 3º year of my Computer science degree in Unizar",
-          "I belong to the CodeLabZGZ association, in addition to the CTF school.The first one is the computer science degree students association, the second one is a extracurricilar asocciation where we learn to solve CTFs under the supervision of some teachers"],
+          text: ["Currently I am studing the 3º year of my Computer science degree in Unizar.",
+          "I belong to the CodeLabZGZ association, in addition to the CTF school.The first one is the computer science degree students association, the second one is a extracurricilar asocciation where we learn to solve CTFs under the supervision of some teachers."],
         },
         {
             title: "Achievements",
-            text: ["Honors mention in bachiller.","Passed with honors operative systems subject in college","Participated in high capacieties program during 3º and 4º ESO"],
+            text: ["Honors mention in bachiller.","Getting my first internship after only half career.","Passed with honors operative systems subject in college.","Participated in high capacieties program during 3º and 4º ESO."],
         },
         {
             title: "Soft skills",

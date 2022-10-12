@@ -3,12 +3,12 @@ export default function Events() {
     const events2022 = [
         {
             title: "Locked Shields",
-            text: "Ejercicio real de ciberseguridad organizado por la OTAN, fue algo único ya que en la ronda civil participamos 12 equipos en toda europa, siendo el nuestro el único que representante de España.Este ejercicio se caracteriza por ser el mas realista de su tipo.En el, nuestro equipo desempeñaba la labor del blue team en una red ya comprometida.",
+            text: "Real cybersecurity exercise organized by NATO, it was unique because in the civilian round we participated 12 teams across Europe, being ours the only representative of Spain, this exercise is characterized by being the most realistic of its kind. Our team played the role of the blue team in a network of an entire country already compromised, which would later be attacked again.",
             link: "https://ccdcoe.org/exercises/locked-shields/",
         },
         {
             title: "Google Hashcode",
-            text: "Hackathon anual organizado por google, fue una experiencia muy divertida de trabajo en equipo.En esta, tuvimos que afrontar un problema de optimización.",
+            text: "Annual hackathon organized by google, it was a very fun teamwork experience, in which we had to face a dynamic optimization problem in which each decision made changed the values of the problem. In order to solve the problem we used the programming language python.",
             link: "https://codingcompetitions.withgoogle.com/hashcode",
         },
         {
@@ -22,14 +22,14 @@ export default function Events() {
     const events2019 = [
         {
             title: "Liga versus",
-            text: "Liga a nivel nacional de debate preuniversitario.Para poder participar, tuve que mejorar mis capacidades comunicativas, así como el trabajo en equipo y la improvisación, entre otras cosas.",
+            text: "National pre-college debate league. In order to participate, I had to practice a lot and improve my communication skills, as well as teamwork and improvisation. It was a very enriching experience for my soft skills as a debater and team leader among others things.",
             link: "https://www.ligaversus.es/",
         },]
     
     const events2015 = [
         {
             title: "Arduino Day ZGZ",
-            text: "Evento anual desarrollado en Zaragoza, en el hubo muchas charlas de distintos temas relacionados con Arduino.Este evento marco en mi la motivación para ser ingeniero informático.",
+            text: "Annual event held in Zaragoza, in this event there were many talks on different topics related to Arduino and computing in general, this event was the motivation for me to become a computer science engineer and work in this field, thanks to this event I also expanded my knowledge in basic programming and networks.",
             link: "https://arduinodayzgz.es/evento_2015.html",
         },]
     

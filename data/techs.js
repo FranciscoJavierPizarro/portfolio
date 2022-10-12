@@ -1,4 +1,41 @@
-export const techs = [
+export const tools = [
+    {
+      name: "github",
+      img: "/github.png",
+      link: "https://github.com/",
+    },
+    {
+      name: "docker",
+      img: "/docker.png",
+      link: "https://www.docker.com/",
+    },
+    {
+      name: "linux",
+      img: "/linux.png",
+      link: "https://en.wikipedia.org/wiki/GNU/Linux",
+    },
+    {
+      name: "vs code",
+      img: "/vscode.png",
+      link: "https://code.visualstudio.com/",
+    },
+    {
+      name: "jira",
+      img: "/jira.png",
+      link: "https://www.atlassian.com/en/software/jira",
+    },
+    {
+      name: "figma",
+      img: "/figma.png",
+      link: "https://www.figma.com/",
+    },
+    {
+      name: "rocketchat",
+      img: "/rocket.png",
+      link: "https://en.rocket.chat/",
+    },
+  ]
+  export const techs = [
     {
       name: "python",
       img: "/python.png",
@@ -7,22 +44,22 @@ export const techs = [
     {
       name: "c++",
       img: "/cpp.png",
-      link: "https://es.wikipedia.org/wiki/C%2B%2B",
+      link: "https://en.wikipedia.org/wiki/C%2B%2B",
     },
     {
       name: "go",
       img: "/go.png",
-      link: "https://es.wikipedia.org/wiki/Go_(lenguaje_de_programaci%C3%B3n)",
+      link: "https://en.wikipedia.org/wiki/Go_(programming_language)",
     },
     {
       name: "c",
       img: "/c.png",
-      link: "https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)",
+      link: "https://en.wikipedia.org/wiki/C_(programming_language)",
     },
     {
       name: "java",
       img: "/java.png",
-      link: "https://es.wikipedia.org/wiki/Java_%28lenguaje_de_programaci%C3%B3n%29",
+      link: "https://en.wikipedia.org/wiki/Java_(programming_language)",
     },
     {
       name: "haskell",
@@ -30,14 +67,9 @@ export const techs = [
       link: "https://www.haskell.org/",
     },
     {
-      name: "github",
-      img: "/github.png",
-      link: "https://github.com/",
-    },
-    {
       name: "react",
       img: "/react.png",
-      link: "https://es.reactjs.org/",
+      link: "https://en.reactjs.org/",
     },
     {
       name: "bash",
@@ -49,15 +81,12 @@ export const techs = [
       img: "/arduino.png",
       link: "https://www.arduino.cc/",
     },  
-    {
-      name: "r",
-      img: "/r.png",
-      link: "https://www.r-project.org/",
-    },
+  ]
+  export const databases = [
     {
       name: "SQL",
       img: "/sql.png",
-      link: "https://es.wikipedia.org/wiki/SQL",
+      link: "https://en.wikipedia.org/wiki/SQL",
     },
     {
       name: "MongoDB",
@@ -65,18 +94,8 @@ export const techs = [
       link: "https://en.wikipedia.org/wiki/MongoDB",
     },
     {
-      name: "Flex",
-      img: "/flexbison.png",
-      link: "https://en.wikipedia.org/wiki/Flex_(lexical_analyser_generator)",
-    },
-    {
-      name: "Bison",
-      img: "/flexbison.png",
-      link: "https://en.wikipedia.org/wiki/GNU_Bison",
-    },
-    {
-      name: "figma",
-      img: "/figma.png",
-      link: "https://www.figma.com/",
+      name: "OracleDB",
+      img: "/oracle.png",
+      link: "https://en.wikipedia.org/wiki/Oracle_Database",
     },
   ]
