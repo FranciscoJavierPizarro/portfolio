@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function AboutCard({title,text,link}) {
+export default function EventsCard({title,text,link}) {
     
     return (
         <>

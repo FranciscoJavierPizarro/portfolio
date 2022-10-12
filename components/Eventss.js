@@ -17,12 +17,6 @@ export default function Events() {
             link: "https://hackforgood.net/",
         },
 
-        // {
-        //     name: "Arduino Day ZGZ 2015",
-        //     img: "/ardDay.png",
-        //     link: "https://arduinodayzgz.es/evento_2015.html",
-        //     descp: "Evento anual desarrollado en Zaragoza, en el hubo muchas charlas de distintos temas relacionados con Arduino.Este evento marco en mi la motivación para ser ingeniero informático.",
-        // },
     ]
 
     const events2019 = [
