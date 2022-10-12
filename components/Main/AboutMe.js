@@ -1,5 +1,5 @@
-import AboutCard from "./AboutCard"
-import Graph from "./Graph"
+import AboutCard from "./../Cards/AboutCard"
+import Graph from "./../Graph"
 export default function AboutMe() {
     const info = [
         {
@@ -39,13 +39,13 @@ export default function AboutMe() {
                 </p>
                 <ul class="list-disc ml-4">
                     <li>
-                        Python:For scripting and cybersec.
+                        Python: For scripting and cybersec.
                     </li>
                     <li>
-                        NextJS:For web/server development.
+                        NextJS: For web/server development.
                     </li>
                     <li>
-                        C++:For apps with high performance and low level control.
+                        C++: For apps with high performance and low level control.
                     </li>
                 </ul>
             </div>

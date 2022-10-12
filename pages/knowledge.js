@@ -1,8 +1,8 @@
 import styles from '../styles/Home.module.css'
-import Layout from '../components/Layout'
-import Navbar from '../components/Navbar'
-import Sidebar from '../components/Sidebar'
-import Tecnologias from '../components/Tecnologias'
+import Layout from '../components/Structural/Layout'
+import Navbar from '../components/Bars/Navbar'
+import Sidebar from '../components/Bars/Sidebar'
+import Tecnologias from '../components/Main/Tecnologias'
 export default function Knowledge() {
     return (
       <div className="h-full bg-bg">

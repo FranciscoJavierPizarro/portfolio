@@ -1,4 +1,4 @@
-import ExperienceCard from "./ExperienceCard"
+import ExperienceCard from "./../Cards/ExperienceCard"
 export default function Experiencee() {
     const experience2022 = [
         {

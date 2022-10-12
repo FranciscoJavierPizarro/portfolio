@@ -1,8 +1,8 @@
 import styles from '../styles/Home.module.css'
-import Layout from '../components/Layout'
-import Navbar from '../components/Navbar'
-import Sidebar from '../components/Sidebar'
-import Eventss from '../components/Eventss'
+import Layout from '../components/Structural/Layout'
+import Navbar from '../components/Bars/Navbar'
+import Sidebar from '../components/Bars/Sidebar'
+import Eventss from '../components/Main/Eventss'
 export default function Events() {
     return (
       <div className="h-full bg-bg">

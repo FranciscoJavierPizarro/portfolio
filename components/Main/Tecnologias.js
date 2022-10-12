@@ -1,5 +1,5 @@
-import { techs } from "../data/techs"
-import TechCard from "./TechCard"
+import { techs } from "../../data/techs"
+import TechCard from "../Cards/TechCard"
 
 export default function Tecnologias() {
 

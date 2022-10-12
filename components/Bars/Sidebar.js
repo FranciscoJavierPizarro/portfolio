@@ -34,7 +34,7 @@ export default function Sidebar() {
 
             {/* <RssButton content="a" url="google.es"/> */}
             {buttons}
-            <div className="w-1 h-48 border-2 border-white border-solid mx-auto mt-4 hover:border-green"></div>
+            <div className="w-1 h-44 border-2 border-white border-solid mx-auto mt-4 hover:border-green"></div>
           </div>
         </div>
       </>

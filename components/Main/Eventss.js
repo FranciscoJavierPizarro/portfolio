@@ -1,4 +1,4 @@
-import EventCard from "./EventCard"
+import EventCard from "./../Cards/EventCard"
 export default function Events() {
     const events2022 = [
         {
