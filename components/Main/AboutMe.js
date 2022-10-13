@@ -4,7 +4,7 @@ export default function AboutMe() {
     const info = [
         {
           title: "Current status",
-          text: ["Currently I am studing the 3º year of my Computer science degree in Unizar.",
+          text: ["Currently I am studying the 3º year of my Computer science degree in Unizar.",
           "I belong to the CodeLabZGZ association, in addition to the CTF school.The first one is the computer science degree students association, the second one is a extracurricilar asocciation where we learn to solve CTFs under the supervision of some teachers."],
         },
         {
