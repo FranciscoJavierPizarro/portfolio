@@ -50,7 +50,7 @@ export default function AboutMe() {
                 </ul>
             </div>
             <div class="w-2/3">
-                {/* <Graph/> */}
+                <Graph/>
             </div>
         </div>
         </>
