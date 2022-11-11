@@ -7,6 +7,7 @@ export default function ExperienceCard({title,text,link,img}) {
 
     return (
         <>
+        {link != "" &&
         <Link href={link}>
             <div class="mt-8 bg-lightbg w-full lg:w-2/3 min-h-40 p-4 hover:cursor-pointer hover:text-green">
                 <p class="text-xl w-full font-semibold capitalize pb-2 ">
@@ -17,7 +18,17 @@ export default function ExperienceCard({title,text,link,img}) {
                     <Image src={img} width={36} height={24} layout="responsive" className="object-contain" alt={title}/>
                 </div>
             </div>
-        </Link>
+        </Link>}
+        {link == "" &&
+        
+        <div class="mt-8 bg-lightbg w-full lg:w-2/3 min-h-40 p-4 hover:cursor-pointer hover:text-green">
+            <p class="text-xl w-full font-semibold capitalize pb-2 ">
+                {title}
+            </p>
+            <div className="py-4">{texts}</div>
+            
+        </div>
+        }
         </>
     )
 }

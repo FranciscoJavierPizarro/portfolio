@@ -30,10 +30,10 @@ export const tools = [
       link: "https://www.figma.com/",
     },
     {
-      name: "rocketchat",
-      img: "/rocket.png",
-      link: "https://en.rocket.chat/",
-    },
+      name: "kubernetes",
+      img: "/kubernetes.png",
+      link:"https://kubernetes.io/"
+    }
   ]
   export const techs = [
     {
@@ -76,11 +76,7 @@ export const tools = [
       img: "/bash.png",
       link: "https://www.gnu.org/software/bash/",
     },
-    {
-      name: "arduino",
-      img: "/arduino.png",
-      link: "https://www.arduino.cc/",
-    },  
+     
   ]
   export const databases = [
     {

@@ -4,19 +4,19 @@ import Resume from './Resume';
 export default function Navbar() {
     const botones = [
         {
-          name: "events",
+          name: "Eventos",
           link: "/events",
         },
         {
-            name: "knowledge",
+            name: "Conocimientos",
             link: "/knowledge",
         },
         {
-            name: "experience",
+            name: "Experiencia",
             link: "/experience",
         },
         {
-            name: "about me",
+            name: "Sobre mi",
             link: "/",
         },
     ]

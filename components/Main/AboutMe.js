@@ -3,20 +3,22 @@ import Graph from "./../Graph"
 export default function AboutMe() {
     const info = [
         {
-          title: "Current status",
-          text: ["Currently I am studying the 3º year of my Computer science degree in Unizar.",
-          "I belong to the CodeLabZGZ association, in addition to the CTF school.The first one is the computer science degree students association, the second one is a extracurricilar asocciation where we learn to solve CTFs under the supervision of some teachers."],
+          title: "Estado actual",
+          text: ["Actualmente estoy estudiando el 3º año en mi carrera de ingeniería informática en Unizar, concretamente la especialidad en computación.",
+          "Formo parte de la asociación CodeLabZGZ, además de la escuela de CTFs.La primera es la asociación de estudiantes de ingeniería informática, la segunda es una asociación extracurricular donde aprendemos a resolver CTFs bajo la supervisión de algunos profesores."],
         },
         {
-            title: "Achievements",
-            text: ["Honors mention in bachiller.","Getting my first internship after only half career.","Passed with honors operative systems subject in college.","Participated in high capacieties program during 3º and 4º ESO."],
+            title: "Logros",
+            text: ["Mención de honor en bachiller.","Haber realizado mis primeras prácticas en empresa habiendo cursado solo la mitad de la carrera."
+            ,"Haber obtenido la matrícula de honor en la asignatura de sistemas operativos en la carrera.",
+            "Haber participado en el programa de altas capacidades durante 3º y 4º ESO."],
         },
         {
             title: "Soft skills",
-            text: ["Ability to solve problems in unique and optimal ways.",
-            "Leadership ability and good communication skills in terms of working in teams.",
-            "Ability to learn very quickly.",
-            "Qualified to be able to work in English.(Cambridge B2)."],
+            text: ["Habilidad para resolver problemas de forma única y eficiente.",
+            "Habilidad de liderazgo y buena comunicación en lo referente a trabajar en equipo.",
+            "Habilidad de aprendizaje extremadamente rápido.",
+            "Cualificado para trabajar sin problemas en inglés.(Cambridge B2)."],
         },
     ]
     
@@ -35,23 +37,23 @@ export default function AboutMe() {
             {list}
             <div class="mt-8 bg-lightbg w-full lg:w-2/3 h-40 p-4">
                 <p class="text-xl font-semibold capitalize pb-2">
-                    Favorite technologies:
+                    Tecnologías favoritas:
                 </p>
                 <ul class="list-disc ml-4">
                     <li>
-                        Python: For scripting and cybersec.
+                        Python: Para scripting y ciberseguridad.
                     </li>
                     <li>
-                        NextJS: For web/server development.
+                        NextJS: Para desarrollo de web o de servidores.
                     </li>
                     <li>
-                        C++: For apps with high performance and low level control.
+                        C++: Para aplicaciones de alto rendimiento y control preciso de bajo nivel.
                     </li>
                 </ul>
             </div>
-            <div class="w-2/3">
+            {/* <div class="w-2/3">
                 <Graph/>
-            </div>
+            </div> */}
         </div>
         </>
     )

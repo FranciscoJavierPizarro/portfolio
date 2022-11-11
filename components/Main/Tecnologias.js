@@ -31,7 +31,7 @@ export default function Tecnologias() {
         <div className="w-full mr-8 lg:mr-30 xl:mr-60 text-white ml-16">
             <div className="sm:mt-4">
                 <p className="font-extrabold">
-                    Development tools:
+                    Herramientas de desarrollo:
                 </p>
             </div>
             <div className="flex flex-wrap gap-x-4 md:gap-x-12 gap-y-4 md:gap-y-12 content-center">
@@ -39,7 +39,7 @@ export default function Tecnologias() {
             </div>
             <div className="sm:mt-4">
                 <p className="font-extrabold">
-                    Languages:
+                    Lenguajes:
                 </p>
             </div>
             <div className="flex flex-wrap gap-x-4 md:gap-x-12 gap-y-4 md:gap-y-12 content-center">
@@ -47,7 +47,7 @@ export default function Tecnologias() {
             </div>
             <div className="sm:mt-4">
                 <p className="font-extrabold">
-                    Databases:
+                    Bases de datos:
                 </p>
             </div>
             <div className="flex flex-wrap gap-x-4 md:gap-x-12 gap-y-4 md:gap-y-12 content-center">

@@ -3,17 +3,17 @@ export default function Events() {
     const events2022 = [
         {
             title: "Locked Shields",
-            text: "Real cybersecurity exercise organized by NATO, it was unique because in the civilian round we participated 12 teams across Europe, being ours the only representative of Spain, this exercise is characterized by being the most realistic of its kind. Our team played the role of the blue team in a network of an entire country already compromised, which would later be attacked again.",
+            text: "Ejercicio real de ciberseguridad organizado por la OTAN, fue único debido a que en la ronda civil solo participamos 12 equipos en toda Europa, siendo el nuestro el único representante de España, este ejercicio es conocido por ser el más realista de su tipo. Nuestro equipo desempeñaba el papel de BlueTeam en la red de un país entero ya comprometida, con la labor de preparar durante 24 horas la defensa y llevarla acabo durante otras 24 horas mientras sería atacada la red.",
             link: "https://ccdcoe.org/exercises/locked-shields/",
         },
         {
             title: "Google Hashcode",
-            text: "Annual hackathon organized by google, it was a very fun teamwork experience, in which we had to face a dynamic optimization problem in which each decision made changed the values of the problem. In order to solve the problem we used the programming language python.",
+            text: "Hackathon anual organizado por Google, fue una experiencia divertida de trabajo en equipo, en la que tuvimos que afrontar un problema de optimización dinámica en el cual cada decisión afectaba al estado del problema para las siguientes. Para resolver el problema empleamos el lenguaje python con una aproximación de algoritmo voraz.",
             link: "https://codingcompetitions.withgoogle.com/hashcode",
         },
         {
             title: "Hackforgood",
-            text: "Hackathon anual.",
+            text: "Hackathon anual en la cual se plantean soluciones a problemas actuales, en esta tuvimos que plantear una solución al problema del consumo energético en la vivienda y defenderla en un formato elevator pitch. Fuimos premiados a nivel de la universidad de Zaragoza.",
             link: "https://hackforgood.net/",
         },
 
@@ -22,14 +22,14 @@ export default function Events() {
     const events2019 = [
         {
             title: "Liga versus",
-            text: "National pre-college debate league. In order to participate, I had to practice a lot and improve my communication skills, as well as teamwork and improvisation. It was a very enriching experience for my soft skills as a debater and team leader among others things.",
+            text: "Liga nacional de debate preuniversiatrio. Para poder participar, tuve que practicar mucho y mejorar mis habilidades en comunicación, así como las de trabajo en equipo y la improvisación. Fue una experiencia muy enriquecedora sobre todo para mis soft skills como líder de equipo y orador entre otras cosas.",
             link: "https://www.ligaversus.es/",
         },]
     
     const events2015 = [
         {
             title: "Arduino Day ZGZ",
-            text: "Annual event held in Zaragoza, in this event there were many talks on different topics related to Arduino and computing in general, this event was the motivation for me to become a computer science engineer and work in this field, thanks to this event I also expanded my knowledge in basic programming and networks.",
+            text: "Evento anual llevado a cabo en Zaragoza, en este evento había muchas charlas relacionadas con Arduino y la informática en general, este evento fue mi motivación para convertirme en ingeniero informático y trabajar en este campo, gracias a este evento también aumente mi conocimiento programación básica y redes.",
             link: "https://arduinodayzgz.es/evento_2015.html",
         },]
     
