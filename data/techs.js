@@ -78,20 +78,3 @@ export const tools = [
     },
      
   ]
-  export const databases = [
-    {
-      name: "SQL",
-      img: "/sql.png",
-      link: "https://en.wikipedia.org/wiki/SQL",
-    },
-    {
-      name: "MongoDB",
-      img: "/mongodb.png",
-      link: "https://en.wikipedia.org/wiki/MongoDB",
-    },
-    {
-      name: "OracleDB",
-      img: "/oracle.png",
-      link: "https://en.wikipedia.org/wiki/Oracle_Database",
-    },
-  ]

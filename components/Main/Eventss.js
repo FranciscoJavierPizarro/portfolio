@@ -3,7 +3,7 @@ export default function Events() {
     const events2022 = [
         {
             title: "Locked Shields",
-            text: "Ejercicio real de ciberseguridad organizado por la OTAN, fue único debido a que en la ronda civil solo participamos 12 equipos en toda Europa, siendo el nuestro el único representante de España, este ejercicio es conocido por ser el más realista de su tipo. Nuestro equipo desempeñaba el papel de BlueTeam en la red de un país entero ya comprometida, con la labor de preparar durante 24 horas la defensa y llevarla acabo durante otras 24 horas mientras sería atacada la red.",
+            text: "Ejercicio real de ciberseguridad organizado por la OTAN, fue único debido a que en la ronda civil solo participamos 12 equipos en toda Europa, siendo el nuestro el único representante de España, este ejercicio es conocido por ser el más realista de su tipo. Nuestro equipo desempeñaba el papel de BlueTeam en la red de un país entero ya comprometida, con la labor de preparar durante 24 horas la defensa y llevarla acabo durante otras 24 horas durante las cuales la red es atacada.",
             link: "https://ccdcoe.org/exercises/locked-shields/",
         },
         {
@@ -13,7 +13,7 @@ export default function Events() {
         },
         {
             title: "Hackforgood",
-            text: "Hackathon anual en la cual se plantean soluciones a problemas actuales, en esta tuvimos que plantear una solución al problema del consumo energético en la vivienda y defenderla en un formato elevator pitch. Fuimos premiados a nivel de la universidad de Zaragoza.",
+            text: "Hackathon anual en el cual se plantean soluciones a problemas actuales, en este tuvimos que plantear una solución al problema del consumo energético en la vivienda y defenderla en un formato elevator pitch. Fuimos premiados a nivel de la universidad de Zaragoza.",
             link: "https://hackforgood.net/",
         },
 
@@ -22,14 +22,14 @@ export default function Events() {
     const events2019 = [
         {
             title: "Liga versus",
-            text: "Liga nacional de debate preuniversiatrio. Para poder participar, tuve que practicar mucho y mejorar mis habilidades en comunicación, así como las de trabajo en equipo y la improvisación. Fue una experiencia muy enriquecedora sobre todo para mis soft skills como líder de equipo y orador entre otras cosas.",
+            text: "Liga nacional de debate preuniversiatrio. Para poder participar, tuve que practicar mucho y mejorar mis habilidades en comunicación, así como las de trabajo en equipo y la improvisación. Fue una experiencia muy enriquecedora sobre todo para mis soft skills como líder de equipo y orador entre otras cosas. Dichas softskills me han resultados muy útiles desde entonces",
             link: "https://www.ligaversus.es/",
         },]
     
     const events2015 = [
         {
             title: "Arduino Day ZGZ",
-            text: "Evento anual llevado a cabo en Zaragoza, en este evento había muchas charlas relacionadas con Arduino y la informática en general, este evento fue mi motivación para convertirme en ingeniero informático y trabajar en este campo, gracias a este evento también aumente mi conocimiento programación básica y redes.",
+            text: "Evento anual llevado a cabo en Zaragoza, en este evento había muchas charlas relacionadas con Arduino y la informática en general, este evento fue mi motivación para convertirme en ingeniero informático y trabajar en este campo, gracias a este evento también aumente mis conocimientos en programación básica y redes.",
             link: "https://arduinodayzgz.es/evento_2015.html",
         },]
     

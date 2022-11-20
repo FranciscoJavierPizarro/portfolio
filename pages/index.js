@@ -8,8 +8,8 @@ export default function Home() {
   return (
     <div className="h-full bg-bg">
       <Navbar/>
-      <div class=" flex w-full h-full mt-8">
-        <div class="w-1/5 hidden sm:block"/>
+      <div className=" flex w-full h-full mt-8">
+        <div className="w-1/5 hidden sm:block"/>
         <Sidebar/>
         <Imagen/>
         <AboutMe/>
